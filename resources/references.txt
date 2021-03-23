@@ -4,3 +4,4 @@ https://python-can.readthedocs.io/en/master/interfaces/socketcan.html
 https://man7.org/linux/man-pages/man2/socket.2.html
 https://www.beyondlogic.org/example-c-socketcan-code/
 https://pypi.org/project/socketcan/
+https://github.com/torvalds/linux/blob/master/include/uapi/linux/can.h
