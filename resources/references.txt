@@ -8,3 +8,4 @@ https://github.com/torvalds/linux/blob/master/include/uapi/linux/can.h
 https://www.programmersought.com/article/66426296263/
 https://github.com/zombieCraig
 https://github.com/openxc/uds-c/blob/master/tests/test_core.c
+https://github.com/mguentner/cannelloni/tree/master/include/linux
