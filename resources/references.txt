@@ -6,3 +6,5 @@ https://www.beyondlogic.org/example-c-socketcan-code/
 https://pypi.org/project/socketcan/
 https://github.com/torvalds/linux/blob/master/include/uapi/linux/can.h
 https://www.programmersought.com/article/66426296263/
+https://github.com/zombieCraig
+https://github.com/openxc/uds-c/blob/master/tests/test_core.c
