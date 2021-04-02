@@ -16,8 +16,8 @@ except socket.error as e:
     print("\n--------------------------------------------------------------------------------")
 
 can_frame_format = "<LB3xq"
-can_msg1 = struct.pack(can_frame_format,580,8,0) #speed 0 in digital meter
-can_msg2 = struct.pack(can_frame_format,580,8,3932100001000) #speed 200km/h in digital meter
+can_msg1 = struct.pack(can_frame_format,580,5,0) #speed 0 in digital meter
+can_msg2 = struct.pack(can_frame_format,580,5,0x8595000000) #speed 230km/h in digital meter
 can_msg3 = struct.pack(can_frame_format,392,4,0x002) #signal light right
 can_msg4 = struct.pack(can_frame_format,392,4,0x001) #signal light right
 can_msg5 = struct.pack(can_frame_format,411,6,0) # all door open
