@@ -11,3 +11,4 @@ https://github.com/openxc/uds-c/blob/master/tests/test_core.c
 https://github.com/mguentner/cannelloni/tree/master/include/linux
 https://docs.python.org/3/library/struct.html
 https://github.com/iDoka/awesome-canbus#gui-tools
+https://elinux.org/Python_Can
