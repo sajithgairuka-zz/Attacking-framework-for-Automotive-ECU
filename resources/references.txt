@@ -12,3 +12,7 @@ https://github.com/mguentner/cannelloni/tree/master/include/linux
 https://docs.python.org/3/library/struct.html
 https://github.com/iDoka/awesome-canbus#gui-tools
 https://elinux.org/Python_Can
+https://alselectro.wordpress.com/2020/04/29/sensor-data-on-can-bus-arduino-with-can2515/
+https://circuitdigest.com/microcontroller-projects/arduino-can-tutorial-interfacing-mcp2515-can-bus-module-with-arduino
+https://github.com/autowp/arduino-mcp2515
+https://pcmflash.ru/toyota/
