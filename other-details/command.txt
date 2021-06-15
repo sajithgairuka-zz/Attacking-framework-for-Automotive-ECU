@@ -1,0 +1,22 @@
+bluetoothctl
+power on
+pairable on
+agent on
+default-agent
+scan on
+pair <OBD2 port mac address>
+trust <OBD2 port mac address>
+quit
+sudo rfcomm bind rfcomm0 <OBD2 port mac address>
+screen /dev/rfcomm0
+
+----
+atz --device ID
+atl1 -- line feed
+ath1 -- display header 
+atsp -- how to communicate with port [atsp0 --automatic detections]
+
+Command HEX value
+
+eg: FF FF --> first 2 represents the mode ,next 2 represents parameter ID(pid)
+010d
